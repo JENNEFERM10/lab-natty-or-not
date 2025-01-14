@@ -15,7 +15,7 @@ Para este projeto, o "ChatGPT" foi usado para organizar e refinar os tópicos pr
 🚀 Resultados
 O e-book combina informações claras e objetivas com recursos visuais envolventes, oferecendo um guia completo para leitores interessados em entender o impacto transformador da IA em diversos aspectos da sociedade.
 
-[🔗 LINK PARA O E-BOOK](insira_o_link_aqui)
+[🔗 LINK PARA O E-BOOK](O-Impacto-da-IA-em-Nossas-Vidas-Um-Guia-Completo.pdf)
 
 💭 Reflexão
 Desenvolver este e-book foi uma jornada inspiradora. Ele não apenas demonstrou o poder das IAs como ferramentas criativas, mas também reforçou a importância de seu uso responsável para moldar um futuro mais inovador e ético.
