@@ -1,6 +1,5 @@
-# lab-natty-or-not
-
 O Impacto da IA em Nossas Vidas: Um Guia Completo 🌐
+
 
 📒 Descrição
 Este e-book de 10 páginas mergulha no universo da inteligência artificial (IA), abordando desde suas definições e aplicações até os desafios éticos e impactos futuros dessa tecnologia em nossas vidas.
